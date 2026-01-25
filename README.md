@@ -1,7 +1,7 @@
 # GIS_FinalProject_Group 2 
 
 #### Walking Accessibility to Childcare and Schools: ###
-#### A Spatial Comparison of Family-Friendliness in Graz and Uppsala ###
+#### A Spatial Comparison of Family-Friendliness in Graz and Utrecht ###
 
 ## Table of content for the README.md
 - Description of the Project
@@ -33,12 +33,12 @@
 - run cell by cell or whole notebook for all results 
 
 # Research Question
-- How accessible are childcare facilities and schools within a 10–15 minute walking threshold across Graz and Uppsala?
-- How does Graz’s family-friendly accessibility compare to Uppsala’s, and which spatial patterns indicate potential areas for improvement?
+- How accessible are childcare facilities and schools within a 10–15 minute walking threshold across Graz and Utrecht?
+- How does Graz’s family-friendly accessibility compare to Utrecht’s, and which spatial patterns indicate potential areas for improvement?
 
 # Study Area
 - Graz, Austria
-- Uppsala, Sweden
+- Utrecht, The Netherlands
 
 # Data Sources
 
@@ -48,13 +48,13 @@
   - A.1: Data Preparation
   - A.2: Accessibility Calculation
   - A.3: Accessibility Indicator - Family Friendliness
-- B: Uppsala, Sweden
+- B: Utrecht, The Netherlands
   - B.1: Data Preparation
   - B.2: Accessibility Calculatio
   - B.3:Accessibility Indicator - Family Friendliness
 - C: Statistics, Visualizations & Mapping
   - C.1: Graz
-  - C.2: Uppsala
+  - C.2: Utrecht
   - C.3: Comparison Maps 
 
 # Workflow Description
