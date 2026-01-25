@@ -1,6 +1,23 @@
 # Ignore the raw data files with the TIFs from GHSL dataset
 Data/Raw/
 
+# Cache from osmnx/contextily/geopandas/etc
+cache/
+
+# Raster sidecar junk created when opening TIFs
+*.aux.xml
+*.ovr
+*.tfw
+*.prj
+*.cpg
+*.qpj
+
+# VS Code
+.vscode/
+
+# mac / windows
+.DS_Store
+Thumbs.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
