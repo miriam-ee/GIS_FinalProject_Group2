@@ -139,7 +139,7 @@ To analyze different cities:
 
 ### A: Graz, Austria
 1. **A.1 Data Preparation**
-   - Define and import study area boundary
+   - Define and import study area boundary; create a 1.000m buffer around the boundary for OSM POIs and Walking Network 
    - Download OSM childcare facilities and schools
    - Download walkable street network (custom filter for bridges, footways)
    - Create H3 hexagon grid (resolution 8)
